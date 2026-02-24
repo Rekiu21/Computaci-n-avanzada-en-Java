@@ -1,0 +1,11 @@
+# Java build artifacts
+*.class
+
+# Reporte local (no subir)
+evidencia1/README_REPORTE_LOCAL.md
+
+# Archivos/carpetas locales que no se subirán en esta entrega
+act 2/
+act 2.pdf
+listas enlazadas/
+listas enlazadas.zip
